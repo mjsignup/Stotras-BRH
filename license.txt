@@ -1,6 +1,6 @@
 Stotras in Telugu
 
-Copyright (C) 2015 by Krishna Srikanth Manda (http://krishnasrikanth.in)
+Copyright (C) 2015 by Krishna Srikanth Manda (http://stotras.krishnasrikanth.in)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
